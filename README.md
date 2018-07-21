@@ -1,5 +1,5 @@
 # How to Run Fn-Project on a Raspberry Pi
-My attempt to run fnproject on a RaspberryPi.
+My attempt to run [fnproject](https://github.com/fnproject) on a RaspberryPi.
 
 Inspired from <https://medium.com/@varpa89/run-fn-project-on-your-raspberry-pi-fa17f5067b47>
 
